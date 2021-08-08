@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\LineComparisonOops\LineComparisonOops\bin\Debug\netcoreapp3.1\LineComparisonOops.exe
+C:\Users\ASUS\source\repos\LineComparisonOops\LineComparisonOops\bin\Debug\netcoreapp3.1\LineComparisonOops.deps.json
+C:\Users\ASUS\source\repos\LineComparisonOops\LineComparisonOops\bin\Debug\netcoreapp3.1\LineComparisonOops.runtimeconfig.json
+C:\Users\ASUS\source\repos\LineComparisonOops\LineComparisonOops\bin\Debug\netcoreapp3.1\LineComparisonOops.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\LineComparisonOops\LineComparisonOops\bin\Debug\netcoreapp3.1\LineComparisonOops.dll
+C:\Users\ASUS\source\repos\LineComparisonOops\LineComparisonOops\bin\Debug\netcoreapp3.1\LineComparisonOops.pdb
+C:\Users\ASUS\source\repos\LineComparisonOops\LineComparisonOops\obj\Debug\netcoreapp3.1\LineComparisonOops.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\LineComparisonOops\LineComparisonOops\obj\Debug\netcoreapp3.1\LineComparisonOops.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\LineComparisonOops\LineComparisonOops\obj\Debug\netcoreapp3.1\LineComparisonOops.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\LineComparisonOops\LineComparisonOops\obj\Debug\netcoreapp3.1\LineComparisonOops.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\LineComparisonOops\LineComparisonOops\obj\Debug\netcoreapp3.1\LineComparisonOops.dll
+C:\Users\ASUS\source\repos\LineComparisonOops\LineComparisonOops\obj\Debug\netcoreapp3.1\LineComparisonOops.pdb
+C:\Users\ASUS\source\repos\LineComparisonOops\LineComparisonOops\obj\Debug\netcoreapp3.1\LineComparisonOops.genruntimeconfig.cache
