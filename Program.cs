@@ -17,6 +17,7 @@ namespace LineComparison
 
             Distance.Equal(LineOne, LineTwo);
 
+            Distance.CompareTo(LineOne, LineTwo);
         }
     }
 }

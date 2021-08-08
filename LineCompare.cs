@@ -28,5 +28,22 @@ namespace LineComparison
                 Console.WriteLine("Not Equals");
         }
 
+        public static void CompareTo(double Line1, double Line2)
+        {
+
+            if (Line1.CompareTo(Line2) >= Line1)
+            {
+                Console.WriteLine("Line1 is greater than Line");
+            }
+            else if (Line1.CompareTo(Line2) >= Line2)
+            {
+                Console.WriteLine("Line1 is less than Line2");
+            }
+            else
+            {
+                Console.WriteLine("Line 1 is Equal to Line 2");
+            }
+        }
+
     }
 }
